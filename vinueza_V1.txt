@@ -1,0 +1,1 @@
+Versionar es tener un respaldo del codigo y trabajar en el mismo proyecto en un equipo de desarrollo
