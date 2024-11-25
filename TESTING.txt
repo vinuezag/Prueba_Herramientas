@@ -1,1 +1,3 @@
-Hoy es lunes y me llamo greta
+Hoy es lunes y me llamo Greta
+
+¿Para que sirve el git add?
