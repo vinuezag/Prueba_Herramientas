@@ -7,3 +7,5 @@
 ¿Qué son las "ramas" o "branches" en el desarrollo colaborativo?
 4.1 Las "ramas" o "branches" en el desarrollo colaborativo son líneas de trabajo independientes que permiten a los desarrolladores trabajar en características o correcciones sin afectar el código principal. Facilitan la colaboración al permitir realizar cambios aislados y luego fusionarlos con la rama principal una vez completados.
 ¿Qué es un "fork" en GitHub?
+5.1 Respuesta
+Un "fork" en GitHub es una copia de un repositorio que se crea en la cuenta de un usuario, permitiendo trabajar de forma independiente del original. Esto facilita realizar cambios y experimentar sin afectar el proyecto original, y luego se puede enviar un "pull request" para proponer la inclusión de esos cambios en el repositorio original.
