@@ -4,3 +4,4 @@
 2.2La "historia de commits" en Git es un registro de todas las confirmaciones en un repositorio, que incluye el autor, la fecha y un mensaje de cambios. Permite a los desarrolladores revisar y colaborar en el código de manera efectiva.
 ¿Qué es un repositorio "clonado"?
 3.1 Un repositorio "clonado" es una copia completa de un repositorio existente, incluyendo todos los archivos y el historial de cambios. Se crea usando el comando git clone.
+¿Qué son las "ramas" o "branches" en el desarrollo colaborativo?
